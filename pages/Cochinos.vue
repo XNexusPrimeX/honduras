@@ -22,7 +22,6 @@ export default Vue.extend({
         <p>Las islas son un Área Marina Protegida y están gestionadas por la Fundación Arrecife de Coral de Honduras.</p>
         <p>El arrecife de coral aquí forma parte del segundo sistema de arrecifes de coral más grande del mundo conocido como la Barrera de Coral Mesoamericana.</p>
         <p>Hay una estación de investigación científica en Cayo Menor, la más pequeña de las dos islas principales del sistema.</p>
-        <br>
         <p>National Geographic escribe: "Las aguas alrededor de esta colección de cayos de coral son el sueño de un biólogo marino: protegidas por el gobierno, prohibidas para buceadores comerciales y pescadores, y ocupadas con criaturas que aún no tengan nombres"</p>
     </Section>
 </template>
