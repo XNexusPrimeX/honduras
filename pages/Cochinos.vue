@@ -11,7 +11,7 @@ export default Vue.extend({
         image: 'cochinos.jpg',
         author: {
             name: 'Isabelle Mendes Meza',
-            pic: 'https://pps.whatsapp.net/v/t61.24694-24/298042111_1035183623866324_7820696349568806522_n.jpg?ccb=11-4&oh=01_AVxsEh-5Q-od2qkRLwp6k5hc26U_rb54WNd2Y5bbWLCdQw&oe=6319B90C'
+            pic: 'https://pps.whatsapp.net/v/t61.24694-24/301422539_1556102654903996_4458326696991109932_n.jpg?ccb=11-4&oh=01_AVxkPBX4eiR8NiZRx5ERL9U0HUbWiBYeBBp5mkBErF9bIA&oe=631FC9A9'
         }
     })
 })
