@@ -12,7 +12,7 @@ export default Vue.extend({
         }
     },
     methods: {
-        expandContent: function() {
+        expandContent() {
             const content = document.querySelector(".content");
             const text = document.querySelector(".text");
             const author = document.querySelector('.author');

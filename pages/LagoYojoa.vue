@@ -11,7 +11,7 @@ export default Vue.extend({
         image: 'lagoyojoa.jpg',
         author: {
             name: 'Nícolas Estevão Lima',
-            pic: 'https://pps.whatsapp.net/v/t61.24694-24/299164128_205323595160244_2554941355357154865_n.jpg?ccb=11-4&oh=01_AVzmbc6_1BnOLq9wVr_OwmYWjgcfMnrdFQ2f3SY8FOGUdQ&oe=63226C4B'
+            pic: 'https://pps.whatsapp.net/v/t61.24694-24/295945714_470306308349840_948209568626474407_n.jpg?ccb=11-4&oh=01_AVyiDJhN7HsvyqCOUj6spw3j_gJ4p1ZarYoZkoXbQGs31w&oe=63435B34'
         }
     })
 })

@@ -11,7 +11,7 @@ export default Vue.extend({
         image: 'picobonito.jpg',
         author: {
             name: 'Nathan Vieira',
-            pic: 'https://pps.whatsapp.net/v/t61.24694-24/301365739_484450663116988_2882552638713455696_n.jpg?ccb=11-4&oh=01_AVzvHq4q69g99Q3ry0Arrv2gYY1mAVFDKeKeMEgh1PiEzg&oe=632185F5'
+            pic: 'https://pps.whatsapp.net/v/t61.24694-24/301365739_484450663116988_2882552638713455696_n.jpg?ccb=11-4&oh=01_AVxD5RZKKPEcIjzf2rfRdUjnwwy8QkJSLUwQ-b_Du6t34A&oe=6344ADF5'
         }
     })
 })

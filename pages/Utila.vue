@@ -11,7 +11,7 @@ export default Vue.extend({
         image: 'utila.jpg',
         author: {
             name: 'Gabrielly Navarro Bastos',
-            pic: 'https://pps.whatsapp.net/v/t61.24694-24/301435344_1410367002805366_7838172227822681169_n.jpg?ccb=11-4&oh=01_AVxaOqxUfrG2UR7iZZo7uasLrlRO7GgvSG38m1DmftJmlg&oe=63202DBD'
+            pic: 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png'
         }
     })
 })
