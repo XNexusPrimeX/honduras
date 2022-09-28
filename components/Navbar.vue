@@ -18,6 +18,7 @@ export default Vue.extend({
                 <router-link to="/lagoyojoa">Lago Yojoa</router-link>
                 <router-link to="/roatan">Roatán</router-link>
                 <router-link to="/utila">Útila</router-link>
+                <router-link to="/tegucigalpa">Tegucigalpa</router-link>
             </ul>
         </div>
     </div>
